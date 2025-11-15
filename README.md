@@ -1,6 +1,8 @@
 
 
-https://github.com/user-attachments/assets/e6441ba4-5a43-4619-90a2-f6bf8994b6a9
+https://github.com/user-attachments/assets/d06188c5-cca8-403f-b3a3-6a1cfb3dde92
+
+
 
 # chat_bot
 
